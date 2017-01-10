@@ -1,10 +1,10 @@
-import { FrontendAppPage } from './app.po';
+import { FrontendnpPage } from './app.po';
 
-describe('frontend-app App', function() {
-  let page: FrontendAppPage;
+describe('frontendnp App', function() {
+  let page: FrontendnpPage;
 
   beforeEach(() => {
-    page = new FrontendAppPage();
+    page = new FrontendnpPage();
   });
 
   it('should display message saying app works', () => {
